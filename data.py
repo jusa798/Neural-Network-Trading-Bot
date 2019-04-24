@@ -12,8 +12,8 @@ db = mongoclient['historical_data']
 
 
 #Access granted
-access_token = "70b8616dce917e9b71174eba5461bc67-defd77f09ef6c6c72520b3d3b6bd23ca"
-accountID = "101-001-11053079-001"
+access_token = "..."
+accountID = "..."
 client = API(access_token=access_token, environment="practice")
 #Access granted
 
