@@ -21,7 +21,7 @@ The second function, **trainer** preprocesses and cleans the data from the get_h
 
 # TO DO # 
 
-Grab enough data to train the neural network, split it, train, and predict! After, the model can be saved and used to visualize or actually execute trades. I will not actually execute the trade (I believe markets are quite efficient), however, a visualization seems like an appropriate next step. 
+Grab enough data to train the neural network, split it, train, and predict! After, the model can be saved and used to visualize or actually execute trades. I will not actually execute the trade, however, a visualization seems like an appropriate next step. 
 
 # Obstacles # 
 
